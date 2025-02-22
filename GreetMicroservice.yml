@@ -9,7 +9,9 @@ management:
       exposure:
         include: '*'
 server:
-  port: 3333
+  port: 8080
+  
+msg: welcome to kiran it technology guys.  
         
        
         
